@@ -16,7 +16,7 @@ class FizzBuzz < Test::Unit::TestCase
         end
 
         puts word
-        
+
       else
         puts num
       end
